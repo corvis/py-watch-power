@@ -1,3 +1,5 @@
+![Py Watch Power Cover Picture](https://raw.githubusercontent.com/corvis/py-watch-power/master/docs/assets/cover-picture.png "Py Watch Power Cover Picture")
+
 <h2 align="center">Py Watch Power</h2>
 
 <p align="center">
