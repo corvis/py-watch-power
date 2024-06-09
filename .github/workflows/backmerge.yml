@@ -9,6 +9,7 @@ jobs:
   run:
     name: Backmerge into development
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
