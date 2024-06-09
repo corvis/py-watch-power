@@ -1,11 +1,11 @@
 <h2 align="center">Py Watch Power</h2>
 
 <p align="center">
-<a href="https://pypi.org/project/py-watch-power/"><img src="https://img.shields.io/pypi/l/py-watch-power?style=for-the-badge" title="License: GPL-3"/></a> 
-<a href="https://pypi.org/project/py-watch-power/"><img src="https://img.shields.io/pypi/pyversions/py-watch-power?style=for-the-badge" title="Python Versions"/></a> 
+<a href="https://pypi.org/project/pywatchpower/"><img src="https://img.shields.io/pypi/l/py-watch-power?style=for-the-badge" title="License: GPL-3"/></a> 
+<a href="https://pypi.org/project/pywatchpower/"><img src="https://img.shields.io/pypi/pyversions/py-watch-power?style=for-the-badge" title="Python Versions"/></a> 
 <a href="https://github.com/psf/black/"><img src="https://img.shields.io/badge/Code%20Style-black-black?style=for-the-badge" title="Code style: black"/></a> 
-<a href="https://pypi.org/project/py-watch-power/"><img src="https://img.shields.io/pypi/v/py-watch-power?style=for-the-badge" title="PyPy Version"/></a> 
-<a href="https://pypi.org/project/py-watch-power/"><img src="https://img.shields.io/pypi/dm/py-watch-power?style=for-the-badge" title="PyPy Downloads"/></a> 
+<a href="https://pypi.org/project/pywatchpower/"><img src="https://img.shields.io/pypi/v/py-watch-power?style=for-the-badge" title="PyPy Version"/></a> 
+<a href="https://pypi.org/project/pywatchpower/"><img src="https://img.shields.io/pypi/dm/py-watch-power?style=for-the-badge" title="PyPy Downloads"/></a> 
 <br>
 <a href="https://github.com/corvis/py-watch-power/actions/workflows/sanity-check.yml"><img src="https://img.shields.io/github/workflow/status/corvis/py-watch-power/Sanity%20Check?style=for-the-badge" title="Build Status"/></a> 
 <a href="https://github.com/corvis/py-watch-power/"><img src="https://img.shields.io/github/last-commit/corvis/py-watch-power?style=for-the-badge" title="Last Commit"/></a> 
