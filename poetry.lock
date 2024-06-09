@@ -158,6 +158,20 @@ files = [
 ]
 
 [[package]]
+name = "cli-rack"
+version = "1.0.6"
+description = "CLI Rack - Lightweight set of tools for building pretty-looking CLI applications in Python"
+optional = false
+python-versions = ">3.6"
+files = [
+    {file = "cli-rack-1.0.6.tar.gz", hash = "sha256:7c1398c26f09577e8ae8ab6bb26ec3e6f44f5aa092a47644d1ea905cd7603fbe"},
+    {file = "cli_rack-1.0.6-py3-none-any.whl", hash = "sha256:cc0dbb78446ef0e59b8fe67bae8cb7c5ce0eb97ba8d57c688d13d2b8504340ac"},
+]
+
+[package.extras]
+validation = ["voluptuous (==0.12.1)"]
+
+[[package]]
 name = "click"
 version = "8.1.7"
 description = "Composable command line interface toolkit"
@@ -908,4 +922,4 @@ hass-mqtt = ["paho-mqtt"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "9b13686376e6d0cbc870f78117486a237d501bea9bf081e374d272ff63cd5b7e"
+content-hash = "5e9766c658380a818917ef74c19fb59beff414d180120dfc6724f961b6e7a254"
