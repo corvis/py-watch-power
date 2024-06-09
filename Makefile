@@ -56,6 +56,14 @@ deps-tree:
 		poetry show --tree; \
 	)
 
+.PHONY: venv
+venv:
+	@( \
+	  	set -e; \
+		$(PYTHON) -m venv $(VIRTUAL_ENV_PATH); \
+		source ./venv/bin/activate; \
+	)
+
 copyright:
 	@( \
        if [ -z $(SKIP_VENV) ]; then source $(VIRTUAL_ENV_PATH)/bin/activate; fi; \
