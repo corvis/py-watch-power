@@ -1,6 +1,6 @@
 #
 # Py Watch Power - Client software for managing inverters and solar stations.
-# Copyright (C) {{ year }}  Dmitry Berezovsky
+# Copyright (C) 2025 Dmitry Berezovsky
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
