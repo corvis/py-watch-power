@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 #
 # Py Watch Power - Client software for managing inverters and solar stations.
 # Copyright (C) {{ year }}  Dmitry Berezovsky

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEPS=("python3.11" "poetry" "sed")
+DEPS=("python3.12" "poetry" "sed")
 
 COLOR_RED='\033[0;31m'
 COLOR_YELLOW='\033[1;33m'
